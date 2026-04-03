@@ -123,3 +123,9 @@ D:\finance-dashboard\output
 
 
 # Github Link: https://github.com/KhushbuKumari21/Finance-Dashboard-Backend
+
+# 📌 Future Improvements
+Pagination & filtering
+Advanced analytics (monthly trends)
+Unit & integration testing
+Deployment (Render / Railway)
